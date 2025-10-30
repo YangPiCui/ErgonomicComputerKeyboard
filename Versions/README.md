@@ -3,7 +3,7 @@ To dos:
 Rebase Github Pull Request for the firmware
 
 
-## [ECK_v0.2.0](ECK_v0.2.0) (FreeCAD)
+## [ECK_0.2.0](ECK_0.2.0) (FreeCAD)
 People can't blind type.
 Tilt keywell instead of making it vertical.
 Rename ErgonomicVerticalKeyboard to ErgonomicComputerKeyboard
