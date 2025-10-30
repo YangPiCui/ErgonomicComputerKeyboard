@@ -3,7 +3,7 @@
 ![](Keyboard0.jpg) 
 ![](Keyboard1.jpg) 
 ![](Keyboard2.jpg) 
-![](Keyboard4.jpg)    
+![](Keyboard3.jpg)    
   
 Please refer to EVK_v0.1.1 for build instructions.   
   
