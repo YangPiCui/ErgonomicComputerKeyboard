@@ -1,7 +1,6 @@
 # Ergonomic Computer Keyboard (ECK)
 
-## switching to FreeCAD and (extremely) slowly working on the next iteration
-## let me know if you want to draw the case
+## switching to FreeCAD and slowly working on the next iteration  
 
 ## Introduction
 Flat keyboard and mouse force our hands to pronate. This posture makes our fingers stiffened, neck sore, and back humped, harming our health in the long run.  
