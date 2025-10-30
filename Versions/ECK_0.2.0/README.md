@@ -1,17 +1,17 @@
-# Features
-1. parametric so that other people can contribute adjust tolerances to fit their 3D printer (especially the switch holes)  
-2. the whole keyboard is a whole but it must be assembled in parts to minimize support structure for 3D printing  
-3. hard xot soft PCB
-4. have you made custom desktop app to change keyboard's character assignments?   
-5. keep the manufacturing cost as low as possible (if everything fits on a Teensy 2.0 then great)  
-6. need to keep the latency down for gamers  
-7. the keyboard should resemble the Kinesis Advantage 2 but tilted more and with more keys.  
-8. no colume outside of the little fingers. so need to move those keys to the middle for the index fingers.  
-9. hot swappable keys  
+# [Case](Case) 
+. the keyboard should resemble the Kinesis Advantage 2 but tilted more and with more keys.  
+. no colume outside of the little fingers. so need to move those keys to the middle for the index fingers.  
+. in parts to minimize 3D printing support structure  
+. parametric so that other people can contribute adjust tolerances to fit their 3D printer (especially the switch holes)  
+. hard xot soft PCB  
+. standard keycaps  
+. hot swappable keys  
+. use low latency and cheap components (Teensy 2.0, atmega, rp2040)  
+. desktop app to manage key maps - qwerty default and includes mine  
+
 
 # Part List  
 
-# [Case](Case) 
 
 # Keymap 
 [Layer0](http://www.keyboard-layout-editor.com/#/gists/2fc38dca845ec5f253bac7c052df82da)  
