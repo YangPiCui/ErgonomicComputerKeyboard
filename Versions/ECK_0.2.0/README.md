@@ -1,37 +1,29 @@
-# 0. Part List  
-* 1x Teensy 2.0 USB Board. （开发板）  
-![](Teensy2.0.jpg)
-* 90 Cherry Mechanical Switch. （樱桃轴）
-![](CherryMechanicalSwitch.jpg)
-* 90 1N4148 diode.（开关二极管）One diode for each key switch.
-* 2x 3mm T1 LEDs. （发光二极管）  
-* 2x 1kΩ resistors to connect in series with the LEDs.（电阻）
-![](DiodeLEDResistors.jpg)
-* 0.6mm (wire diameter) tin-coated naked wire.
-![](TinCoatedNakedWire.jpg)
-* 20cm long, 0.6mm (core diameter) sillicon wrapped wire. Get these pre-soldered ones to save time.
-![](PreSolderedWire.jpg)
-* 24 M3x6mm flat tip self-tap screws.
-![](M3x6SelfTapScrews.jpg)
-* 10 8mm diameter x 3mm tall silicon dome sticker feet.
-![](SilliconRubberFeet.jpg)
-* Soldering Iron and Hot Glue Gun.
+# Features
+1. parametric so that other people can contribute adjust tolerances to fit their 3D printer (especially the switch holes)  
+2. the whole keyboard is a whole but it must be assembled in parts to minimize support structure for 3D printing  
+3. hard xot soft PCB
+4. have you made custom desktop app to change keyboard's character assignments?   
+5. keep the manufacturing cost as low as possible (if everything fits on a Teensy 2.0 then great)  
+6. need to keep the latency down for gamers  
+7. the keyboard should resemble the Kinesis Advantage 2 but tilted more and with more keys.  
+8. no colume outside of the little fingers. so need to move those keys to the middle for the index fingers.  
+9. hot swappable keys  
 
-# [1. Case Design](CaseDesign) 
-![](Case0.jpg)
-![](Case1.jpg)
+# Part List  
 
-# 2. Keymap 
+# [Case](Case) 
+
+# Keymap 
 [Layer0](http://www.keyboard-layout-editor.com/#/gists/2fc38dca845ec5f253bac7c052df82da)  
 ![](EVK_v0_1_x_L0.jpg)  
 [Layer1](http://www.keyboard-layout-editor.com/#/gists/1d35c2bdc8fc2de6860daa4e2ee97f45)  
 I manually designed a keymap based on English [letter](https://norvig.com/mayzner.html) and [character](http://xahlee.info/comp/computer_language_char_distribution.html) frequencies. [It fares well against other traidtional layouts according to the Keyboard Layout Analyzer.](http://patorjk.com/keyboard-layout-analyzer/#/load/hqrGn4NG)  
 ![](EVK_v0_1_x_L1.jpg)  
 
-# [3. Electronics, Firmware and Software](ElectronicsFirmwareAndSoftware)
+# [Electronics, Firmware and Software](ElectronicsFirmwareSoftware)
 
 
-# 4. 3D Print 
+# 3D Print 
 "./3DPrintFiles/"  
 "./CuraSlicerSettings/" 
 The parts are of high precision. The fits are transitional clearance. [Calibrate](https://github.com/YangPiCui/3DPrinterCalibrationAndTuning/) your 3D printer accurately and follow the instructions closely. 
@@ -63,7 +55,7 @@ KeycapNormal x 74
 Use a knife to trim the excess edges of the printed keycaps.
   
   
-## 5. Assembly
+## Assembly
 
 ### Hot-glue Cherry Key Switches
 Put some hot glue on the four corners of each keyswitch to secure it on the plates. Do it on the inside for a nicer outer finish.
