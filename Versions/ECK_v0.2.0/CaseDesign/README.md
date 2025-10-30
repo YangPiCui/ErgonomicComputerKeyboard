@@ -1,5 +1,5 @@
 # Case Design 
-I have previously outlined the [design process](https://github.com/YangPiCui/ErgonomicComputerKeyboard/tree/master/EVKVersions/EVK_v0.0/Case#siemens-nx-modelling) with Siemens NX in EVK v0.0. Since then, I have found that
+I have previously outlined the [design process](https://github.com/YangPiCui/ErgonomicVerticalKeyboard/tree/master/EVKVersions/EVK_v0.0/Case#siemens-nx-modelling) with Siemens NX in EVK v0.0. Since then, I have found that
 * A circular keywell works better. Our hands, not just our fingers, should also move while typing.
 * A thumbrest is unnecessary. A free thumb is a more comfortable thumb.  
 Below summary is based on EVK v0.1.2  
