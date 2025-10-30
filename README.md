@@ -17,7 +17,7 @@ The Ergonomic Computer Keyboard (ECK) combines many existing ergonomic features 
 ![](Keyboard1.jpg)  
 [EVK_v0.1.2](Versions/EVK_v0.1.2)  
 
-## [Versions <- click](Versions)  
+## [All Versions](Versions)  
 It takes one about one week to build an ECK from scratch.  
 
 ## [Keymap Optimization](KeymapOptimization) (Under Development)
