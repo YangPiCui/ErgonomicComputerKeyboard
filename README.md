@@ -4,23 +4,21 @@
 ## let me know if you want to draw the case
 
 ## Introduction
-Do you get a sore neck and stiff fingers from typing? Have you developed a stretched forth neck and a hump back?  
-The keyboard and the mouse are the culprits. They force our hands to lay flat on the desk pronated, in turn stressing our neck.  
-Now put your hands on the desk but rotate your palms to face each other. Do you start to feel your shoulders relaxed, your neck relieved, and your back straightened?    
-The Ergonomic Computer Keyboard (ECK) allows you to feel exactly like that.  
-- The case orientates the key caps into a tilted formation, so that palms face each other more while typing. [[SafeType](https://safetype.com/index.php?id_product=1&controller=product) | [ergodox ez vertical stand](https://www.thingiverse.com/thing:2748084)&nbsp;| [Ergodox EZ tent kit](https://www.thingiverse.com/thing:1433117) | [A Similiar Project](https://thomasbaart.nl/2019/01/20/vertikeeb-making-a-vertical-keyboard-part-1/)]
-- Concave design accomodate fingers' natural paths. [[Kinesis Advantage 2](https://kinesis-ergo.com/shop/advantage2/)  | [British patent 1,016,993](https://geekhack.org/index.php?topic=63415)]  
-- An efficient, customizable keymap layout to distribute load on each finger evenly according to their relative strengths.  
-- Little fingers' extra columns have been reassigned to other fingers to alleviate sore pinkies.  
-- Make the keyboard as compact as possible to save desk space for extra accessories such as the mouse.  
+Flat keyboard and mouse force our hands to pronate. This posture makes our fingers stiffened, neck sore, and back humped, harming our health in the long run.  
+The Ergonomic Computer Keyboard (ECK) combines many existing ergonomic features for the typists. Instead of a hefty price tag, it is completely free for DIY.  
+- Tilted keys. [[SafeType](https://safetype.com/index.php?id_product=1&controller=product) | [ergodox ez vertical stand](https://www.thingiverse.com/thing:2748084)&nbsp;| [Ergodox EZ tent kit](https://www.thingiverse.com/thing:1433117) | [A Similiar Project](https://thomasbaart.nl/2019/01/20/vertikeeb-making-a-vertical-keyboard-part-1/)]
+- Concave keywell. [[Kinesis Advantage 2](https://kinesis-ergo.com/shop/advantage2/)  | [British patent 1,016,993](https://geekhack.org/index.php?topic=63415)]  
+- Fewer pinkie keys.  
+- Better (customizable) keymap than qwerty, dvorak, coleman, etc.  
+- Hot swappable keys.  
+- Low latency response for gamers.  
 
 ![](Keyboard0.jpg)  
 ![](Keyboard1.jpg)  
 [EVK_v0.1.2](Versions/EVK_v0.1.2)  
 
 ## [Versions <- click](Versions)  
-I have included all necessary build instructions for each ECK version in the Versions folder.  
-It takes one about one week to build an ECK from scratch with all the parts ready.
+It takes one about one week to build an ECK from scratch.  
 
 ## [Keymap Optimization](KeymapOptimization) (Under Development)
 
