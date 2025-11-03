@@ -1,11 +1,4 @@
 # [Case](Case) 
-. the keyboard should resemble the Kinesis Advantage 2 but tilted more and with more keys.  
-. no colume outside of the little fingers. so need to move those keys to the middle for the index fingers.  
-. in parts to minimize 3D printing support structure  
-. parametric so that other people can contribute adjust tolerances to fit their 3D printer (especially the switch holes)  
-. hard xot soft PCB  
-. standard keycaps  
-. hot swappable keys  
 . use low latency and cheap components (Teensy 2.0, atmega, rp2040)  
 . desktop app to manage key maps - qwerty default and includes mine  
 
